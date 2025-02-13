@@ -1,5 +1,5 @@
 # About Me:
-Currently Working on a machine learning Specialization through Coursera
+Currently Working towards new ventures. 
 
 
 # 💻 Tech Stack:
