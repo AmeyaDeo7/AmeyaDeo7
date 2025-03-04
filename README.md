@@ -1,5 +1,5 @@
 # About Me:
-Currently Working towards new ventures. 
+Currently working towards new ventures. 
 
 
 # 💻 Tech Stack:
